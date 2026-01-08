@@ -20,7 +20,6 @@ A comprehensive machine learning framework designed to predict **Suspended Sedim
     - [Phase 3: Probabilistic Distribution](#phase-3-probabilistic-distribution)
     - [Phase 4: Standard Conformal Predictions](#phase-4-standard-conformal-predictions)
     - [Phase 5: Adaptive & Non-Exchangeable CP](#phase-5-adaptive--non-exchangeable-cp)
-5. [🚀 Installation & Usage](#-installation--usage)
 
 ---
 
