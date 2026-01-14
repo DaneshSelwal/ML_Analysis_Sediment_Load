@@ -108,4 +108,5 @@ Uses libraries like `MAPIE` and `PUNCC` for exchangeable data.
 * **Adaptive CP**: Dynamically adjusts the prediction interval width ($C_t$) based on recent errors.
 * **Benefit**: Maintains valid coverage even during "bursty" periods like floods or seasonal shifts.
 
+  <sup>**</sup>This repository is a collaborative project developed by Prakriti Bisht and Danesh Selwal.
 ---
